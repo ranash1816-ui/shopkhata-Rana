@@ -1,0 +1,6 @@
+{
+  "name": "Shopkhata BD",
+  "description": "Professional offline-first shop management, customer ledger, daily cashbox, stock inventory, and Google Drive backup application for Bangladeshi retail businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
